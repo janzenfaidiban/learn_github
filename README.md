@@ -12,6 +12,5 @@ git clone 'url reposotry'
 ## Janzen Faidiban
 Hello everyone!
 
-Yekson is here
-Yesterianus is here too
+
 
