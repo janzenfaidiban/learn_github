@@ -8,9 +8,9 @@ Untuk mengambil repository dari GitHub ke Git komputer
 Contoh : 
 git clone 'url reposotry'
 
-tesss
-
 
 ## Janzen Faidiban
 Hello everyone!
+
+Yekson is here
 
